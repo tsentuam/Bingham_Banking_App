@@ -1,5 +1,5 @@
 #Project by
-#Oswald Adoste Edeoja  | BHU/23/04/05/0058
+#Isaac Akpasu Azeh  | BHU/23/04/09/0022
 #Class called Account For Bingham Banking App
 
 
